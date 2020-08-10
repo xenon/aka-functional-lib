@@ -1,0 +1,21 @@
+{
+  "name": "aka-functional",
+  "version": "0.0.1",
+  "description": "A library with some functional helpers not found in Typescript.",
+  "main": "dist/functional.js",
+  "types": "dist/functional.d.ts",
+  "scripts": {
+  	"prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": ["typescript", "ts", "functional", "immutable", "optional"],
+  "author": "alexanderacker",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/alexanderacker/aka-functional-lib.git"
+  }
+}

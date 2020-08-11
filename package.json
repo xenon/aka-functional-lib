@@ -8,7 +8,7 @@
   	"prepublish": "npm run build",
     "build": "tsc"
   },
-  "keywords": ["typescript", "ts", "functional", "immutable", "optional"],
+  "keywords": ["typescript", "ts", "functional", "immutable", "optional", "option"],
   "author": "alexanderacker",
   "license": "ISC",
   "devDependencies": {

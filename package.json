@@ -1,9 +1,9 @@
 {
-  "name": "aka-functional",
+  "name": "aka-functional-lib",
   "version": "0.0.1",
   "description": "A library with some functional helpers not found in Typescript.",
-  "main": "dist/functional.js",
-  "types": "dist/functional.d.ts",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
   	"prepublish": "npm run build",
     "build": "tsc"
